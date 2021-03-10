@@ -1,0 +1,180 @@
+/* general styles */
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+/* header */
+header{
+    margin: 15px 0; 
+}
+
+/* sections*/
+section{
+    border: 2px solid rgb(163, 163, 163);
+    margin-bottom: 10px;
+    padding: 10px 20px;
+}
+
+section h2 {
+    /* width: 95%; */
+    margin: 20px auto; 
+}
+
+
+
+
+/* section color */
+
+.color .column{
+    display: inline-block;
+    width: 31%;
+    margin: 20px 2px;
+    text-align: center;
+}
+
+.blue{
+    background-color: #2d5dcc;
+    color: white;
+}
+
+.pink{
+    background-color: #d957d9;
+
+}
+
+.green{
+    background-color: #4fe0b0;
+
+}
+
+.beige{
+    background-color: #efd9ca;
+
+}
+
+
+/* section fonts */
+
+.fonts .column{
+    display: inline-block;
+    width: 40%;
+    margin: 10px 20px 20px 20px;
+}
+
+.fonts h3{
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+.source .normal{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+}
+
+.source .italic{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+}
+
+.source .bold{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+}
+
+.nunito .normal{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+}
+
+.nunito .italic{
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: italic;
+}
+
+.nunito .bold{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+}
+
+.poppins .normal{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.poppins .italic{
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+}
+
+.poppins .bold{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+/* section Text Styles */ 
+li {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
